@@ -1,1 +1,13 @@
 theme: jekyll-theme-minimal
+title: McKonelab website
+description: This is our group website
+show_downloads: True
+navigation:
+  - title: Home
+    url: /
+  - title: People
+    url: people
+  - title: Publications
+    url: pubs
+  - title: Contact
+    url: contact
