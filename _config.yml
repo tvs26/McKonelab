@@ -5,8 +5,8 @@ show_downloads: True
 navigation:
   - title: Home
     url: /
-  - title: People
-    url: people
+  - title: Setup
+    url: setup
   - title: Publications
     url: pubs
   - title: Contact
